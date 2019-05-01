@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+const Discord = require('discord.js');//King
 const bot = new Discord.Client();
 const dateFormat = require('dateformat');//npm i dateformat
 const client = new Discord.Client();
